@@ -1,0 +1,100 @@
+{
+  "posts": [{
+      "id": 1,
+      "username": "wifeygirl69",
+      "img": "http://urbanpaleochef.com/wp-content/uploads/2013/06/meandguacamolewithplantainchips.jpg",
+      "body": "My date with Bae",
+      "date": "10/12/17",
+      "likes": 22
+    },
+    {
+      "id": 2,
+      "username": "codey447",
+      "img": "https://www.northshorevisitor.com/wp-content/uploads/2015/04/hiking-trails-1.jpg",
+      "body": "Got lost and found myself hahaha #outdoors #wheresWife #trailboi",
+      "date": "09/11/17",
+      "likes": 45
+    },
+    {
+      "id": 3,
+      "username": "GainCityDouch",
+      "img": "https://i.ytimg.com/vi/bZ7IjhSmkQs/maxresdefault.jpg",
+      "body": "What kind of workouts do you do? Comment below!",
+      "date": "10/02/17",
+      "likes": 780
+    },
+    {
+      "id": 4,
+      "username": "TiannaG",
+      "img": "http://fkn-famous.com/wp-content/uploads/2015/07/9fivetianna03.jpg",
+      "body": "Amazing results with my new #FlatTummyTea",
+      "date": "10/14/17",
+      "likes": 980
+    },
+    {
+      "id": 5,
+      "username": "Porsche",
+      "img": "http://st.motortrend.com/uploads/sites/5/2017/03/2018-Porsche-911-GT3-cockpit.jpg",
+      "body": "Fall in Love with Porsche all over again. #Porsche #911 #TheCoupe",
+      "date": "10/10/17",
+      "likes": 999
+    },
+    {
+      "id": 6,
+      "username": "TheBlackJag",
+      "img": "https://s-media-cache-ak0.pinimg.com/originals/39/7c/e8/397ce8d01b8d05a3885b8f76d9e939d9.jpg",
+      "body": "Another casual cruise with my F-Type #jaguar #coupe",
+      "date": "10/12/17",
+      "likes": 547
+    },
+    {
+      "id": 7,
+      "username": "val",
+      "img": "https://i.pinimg.com/736x/de/43/9b/de439bda76e73a5bdefd47c7560d1627--style-star-girl-crushes.jpg",
+      "body": "Thanks Nike #ad",
+      "date": "10/12/17",
+      "likes": 457
+    },
+    {
+      "id": 8,
+      "username": "e30lover",
+      "img": "https://static.carthrottle.com/workspace/uploads/comments/bcfbfc2ebc7c14ca6b01dd08dd4b67e1.jpg",
+      "body": "another solid build thanks to @e30boi #E30Life",
+      "date": "10/16/17",
+      "likes": 298
+    },
+    {
+      "id": 9,
+      "username": "foodlover77",
+      "img": "https://uz71pyzpz0-flywheel.netdna-ssl.com/wp-content/uploads/2016/10/garlic-parmesan-spaghetti-squash-21.jpg",
+      "body": "#NewDishAlert Spaghetti Squash, try it the next time you want pasta!",
+      "date": "10/14/17",
+      "likes": 234
+    },
+    {
+      "id": 10,
+      "username": "EDC",
+      "img": "http://www.billboard.com/files/media/01-edc-las-vegas-day-2-cr-aLIVE-Coverage-for-Insomniac-2017-billboard-1548.jpg",
+      "body": "Preorder your tickets now and be ready for the Best Peroformance for the best DJs in the world!",
+      "date": "10/14/17",
+      "likes": 683
+    },
+    {
+      "id": 11,
+      "username": "sixgod",
+      "img": "https://i.ytimg.com/vi/MFJ2CD1hNyU/maxresdefault.jpg",
+      "body": "Landing in the City that never sleeps",
+      "date": "10/15/17",
+      "likes": 293
+    },
+    {
+      "id": 12,
+      "username": "ChampagnePapi",
+      "img": "http://www.billboard.com/files/media/drake-performance-02-arena-billboard-2017-1548.jpg",
+      "body": "Really felt the love performing in my hometown #Toronto #SixGod",
+      "date": "09/12/17",
+      "likes": 486
+    }
+  ]
+
+}
